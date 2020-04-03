@@ -132,7 +132,6 @@ class StorageApi {
 }
   export const STORAGE_API = new StorageApi();
 
-
   // A s y n c S t o r a g e
   // -----------------------
   /*
